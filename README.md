@@ -28,6 +28,13 @@ if (in_array($extension, array("jpg", "jpeg", "png", "gif"))) {
 			}
 ```
 
+=======================================
+
+To add fancybox to mobile add 2 lines to "public function handler_init($sender)" in every skin you got /addons/skins/SKIN_NAME/skin.php
+```
+$sender->addJSFile("fancybox/fancybox.js", true);
+$sender->addCSSFile("fancybox/fancybox.css", true);
+```
 Enjoy!
 
 
