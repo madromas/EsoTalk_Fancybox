@@ -1,7 +1,7 @@
 # EsoTalk_Fancybox
 Light, easy, fancybox for EsoTalk
 
-Demo: https://www.madway.net
+Demo: https://madway.net
 
 ### Important: You must have "Attachment" plugin installed and enabled.
 
