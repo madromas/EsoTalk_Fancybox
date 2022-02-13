@@ -4,8 +4,7 @@ Light, easy, fancybox for EsoTalk
 ### Important: You must have "Attachment" plugin installed and enabled.
 
 Upload 
-/fancybox/fancybox.css
-/fancybox/fancybox.js
+/fancybox
 
 To root of the forum.
 
